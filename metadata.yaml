@@ -1,0 +1,33 @@
+_repo: Kapinallinen-Lo-Ta-b-Koomillinen-kiinalainen-seikkailuromaani_72068
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Silvanto, Reino
+    alias: Silva, Reino
+    birthdate: 1883
+    deathdate: 1943
+    gutenberg_agent_id: '45093'
+    url: http://www.gutenberg.org/2009/agents/45093
+    wikipedia: https://fi.wikipedia.org/wiki/Reino_Silvanto
+creator:
+  author:
+    agent_name: Shi, Nai Ngan
+    gutenberg_agent_id: '56525'
+    url: http://www.gutenberg.org/2009/agents/56525
+description: ''
+gutenberg_issued: '2023-11-08'
+identifiers:
+  gutenberg: '72068'
+language: fi
+pgterms:marc905: 20230609020215naingan
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kapinallinen Lo Ta : $b Koomillinen kiinalainen seikkailuromaani'
+url: http://www.gutenberg.org/ebooks/72068
