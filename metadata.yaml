@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '45093'
     url: http://www.gutenberg.org/2009/agents/45093
     wikipedia: https://fi.wikipedia.org/wiki/Reino_Silvanto
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shi, Nai Ngan
     gutenberg_agent_id: '56525'
     url: http://www.gutenberg.org/2009/agents/56525
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72068#Kapinallinen-Lo-Ta-b-Koomillinen-kiinalainen-seikkailuromaani
 gutenberg_issued: '2023-11-08'
 identifiers:
   gutenberg: '72068'
